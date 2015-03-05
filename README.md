@@ -1,0 +1,2 @@
+# WeatherStation
+Koodia sääasemaan.
